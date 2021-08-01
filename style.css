@@ -1,0 +1,46 @@
+nav {
+    margin: 0px;
+    padding: 10px;
+    position: top;
+    display: flex;
+    justify-content: space-evenly;
+    background-color: black;
+    width: 100%;
+    color: white;
+}
+nav a {
+    color: white;
+    text-decoration: none;
+}
+ul {
+    display: flex;
+    justify-content: space-between;
+    text-decoration: none;
+}
+ul li {
+    list-style-type: none;
+}
+#button1 {
+    padding: 5px;
+    background-color: green;
+    color: white
+}
+h1 {
+    margin: 50px;
+}
+p {
+    margin: 50px;
+    padding: 0px;
+}
+#button {
+    margin: 50px;
+    padding: 5px;
+    background-color: green;
+    color: white
+}
+.main {
+    background-image: url("man.jpg");
+    background-repeat: no-repeat;
+    background-position: right bottom;
+    background-size: 50%;
+}
